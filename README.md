@@ -1,7 +1,7 @@
 # basic-calculator-js
 A basic arithmetic calculator without a frontend that can perform basic operations like Addition, Subtraction, Multiplication, &amp; Division.
 
-Link to the Published GitHub pages;
+#Link to the Published GitHub pages;
 
 https://opetimistic.github.io/basic-calculator-js/
 
